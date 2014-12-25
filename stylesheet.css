@@ -3,7 +3,7 @@
 }
 
 body {
-	background: url(http://www.webtexture.net/wp-content/gallery/20-seamless-paper-texture/papar_texture_thumb14.jpg);
+	background: url(PaperBG.png);
 
 	background-color: #FFF5FF;
 	margin: auto;
@@ -30,7 +30,7 @@ body {
 }
 
 a{
-	color: #59BA59;
+	color: #479547;
 }
 
 .nav {
